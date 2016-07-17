@@ -1,0 +1,177 @@
+body{
+
+}
+.clear{
+	clear:both;
+}
+/******menu*******/
+.blackcolor{
+	background: #222222;
+}
+.greycolor{
+	background: lightgrey;
+}
+.menu ul li{
+	float: left;
+	color:lightgrey;
+
+}
+.btn-link:hover{
+	text-decoration: none;
+	background: black;
+	color:white;
+}
+.menu div{
+	color:red;
+	margin:10px;
+}
+/*******shield*********/
+.shield{
+	height: 500px;
+	background:url(../img/header_bg.jpg);
+	padding-top: 120px;
+}
+.shield,.design,.selfie,.heads_img,.game,.new_york{
+	text-align: center;
+	color:white;
+}
+.shield i{
+	font-size: 5em;
+}
+/******table3*****/
+.table3{
+	text-align: center;
+	height: 300px;
+}
+.table3 div{
+	height: 250px;
+    padding-top: 15px;
+}
+.table3 i{
+	font-size: 4em;
+}
+/**********about********/
+.h1{
+	border-bottom:1px solid gray;
+	text-align: center;
+}
+.height{
+	height: 250;
+}
+/***********design***********/
+.design{
+	height: 250px;
+	background:url(../img/bg/divider1.jpg);
+	padding-top: 50px;
+}
+.desighn h1{
+	border-bottom:1px solid white;
+}
+/*******iphone*********/
+.iphone h2{
+	text-align: center;
+	border-bottom:0.5px solid lightgray;
+}
+.iphone img{
+	width: 600px;
+}
+/*******selfie******/
+.selfie{
+	height: 250px;
+	background:url(../img/bg/divider2.jpg);
+	padding-top: 50px;
+}
+.selfie p{
+	margin:0 70px;
+}
+.team{
+	text-align: center;
+	padding: 25px;
+}
+.team img{
+	border-radius: 50%;
+}
+
+.team i{
+	color:blue;
+}
+/**********nout********/
+.nout{
+	text-align: center;
+	padding: 25px;
+}
+.textpad{
+	padding-top: 50px;
+}
+/********heads-shekilde qulagcig*********/
+.heads_img{
+    height: 250px;
+	background:url(../img/bg/divider3.jpg);
+	padding-top: 50px; 
+}
+/*****COOL******/
+.cool{
+	text-align: center;
+	color:grey;
+}
+.cool div{
+	margin-left:10px;
+}
+.cool div img{
+	width:100%;
+	padding-bottom: 10px;
+}
+/*********game******/
+.game{
+	 height: 250px;
+	background:url(../img/bg/divider4.jpg);
+	padding-top: 50px;
+}
+/******cv********/
+.cv{
+	text-align: center;
+}
+.cv img{
+	width: 50px;
+	border-radius: 50%;
+}
+.teamheight{
+	height: 346px;
+	color:white;
+}
+/*******new_york******/
+.new_york{
+	height: 350px;
+	background:url(../img/bg/divider6.jpg);
+	padding-top: 100px;
+	margin-top: 40px;
+
+}
+/*******thanks*********/
+.thanks h2{
+	text-align: center;
+}
+.padding{
+	padding:0 110px;
+}
+.padding h5{
+	margin:5px;
+}
+.padding2{
+	padding:0 102px;
+}
+.padding2 input{
+	margin-bottom: 10px;
+}
+/**********footer******/
+.footer{
+	height: 100px;
+	margin-top: 10px;
+	text-align: center;
+	color:lightgrey;
+	padding-top: 20px;
+}
+.new_yor,.game,.heads_img,.selfie,.design,.shield{
+	background-size: cover;
+	background-position: center;
+}
